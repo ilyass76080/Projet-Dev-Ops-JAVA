@@ -12,7 +12,7 @@ services:
       - DB_HOST=db  # Define the DB host as 'db' (service name)
       - DB_USER=root  # Use root user for MySQL
       - DB_PASSWORD=  # Set a password for root user
-      - DB_NAME=registration  # Database name
+      - DB_NAME=carrental  # Database name
 
   db:
     image: mysql:8.0
@@ -21,7 +21,7 @@ services:
       - "3306:3306"
       
     environment:
-      MYSQL_DATABASE: registration
+      MYSQL_DATABASE: carrental
       MYSQL_USER: root
       MYSQL_PASSWORD:  # Set a password for the root user
       MYSQL_ROOT_PASSWORD: # Root password
