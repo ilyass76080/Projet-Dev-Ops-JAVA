@@ -77,24 +77,24 @@
                 <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
                     <div class="navbar-nav ml-auto py-0">
                         <a href="index.php" class="nav-item nav-link active">Home</a>
-                        <a href="about.phpindex.php" class="nav-item nav-link">About</a>
-                        <a href="service.phpindex.php" class="nav-item nav-link">Service</a>
+                        <a href="about.php" class="nav-item nav-link">About</a>
+                        <a href="service.php" class="nav-item nav-link">Service</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Cars</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="car.phpindex.php" class="dropdown-item">Car Listing</a>
-                                <a href="detail.phpindex.php" class="dropdown-item">Car Detail</a>
-                                <a href="booking.phpindex.php" class="dropdown-item">Car Booking</a>
+                                <a href="car.php" class="dropdown-item">Car Listing</a>
+                                <a href="detail.php" class="dropdown-item">Car Detail</a>
+                                <a href="booking.php" class="dropdown-item">Car Booking</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a href="team.phpindex.php" class="dropdown-item">The Team</a>
-                                <a href="testimonial.phpindex.php" class="dropdown-item">Testimonial</a>
+                                <a href="team.php" class="dropdown-item">The Team</a>
+                                <a href="testimonial.php" class="dropdown-item">Testimonial</a>
                             </div>
                         </div>
-                        <a href="contact.phpindex.php" class="nav-item nav-link">Contact</a>
+                        <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                 </div>
             </nav>
